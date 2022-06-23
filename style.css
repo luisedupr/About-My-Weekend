@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+} 
+
+h1{
+  text-align:center;
+}
+body{
+  background-color:yellow;
+}
+h1 {
+  color:red;
+}
+  
+.first-para{
+  color:green;
+}
+.second-para{
+  color:green;
+}
+.third-para{
+  color:green;
+}
